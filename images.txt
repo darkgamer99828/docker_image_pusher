@@ -1,1 +1,1 @@
-itzg/minecraft-server
+itzg/minecraft-server:latest
