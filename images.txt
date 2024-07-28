@@ -1,2 +1,1 @@
-MCSManager
 itzg/minecraft-server
